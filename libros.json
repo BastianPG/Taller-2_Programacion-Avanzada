@@ -1,0 +1,20 @@
+[
+  {
+    "isbn": "1491910771",
+    "titulo": "Effective Java",
+    "autor": "Joshua Bloch",
+    "categoria": "Programming Languages",
+    "calificacion": 0.0,
+    "contCalificacion": 0.0,
+    "contEstrellas": 0.0
+  },
+  {
+    "isbn": "1491910771",
+    "titulo": "Effective Java",
+    "autor": "Joshua Bloch",
+    "categoria": "Programming Languages",
+    "calificacion": 0.0,
+    "contCalificacion": 0.0,
+    "contEstrellas": 0.0
+  }
+]
